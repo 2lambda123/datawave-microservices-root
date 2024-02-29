@@ -1,0 +1,158 @@
+repo_name: 2lambda123/datawave-microservices-root
+report_id: 6b736b257b6045420313930a4b94a113
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:15:43+00:00'
+requested_by: billoley
+provider: github
+branch: main
+detected_tools_count: 12
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: Serverless AppSync
+  description: Easily and quickly deploy GraphQL APIs on AWS
+  website_url: https://github.com/serverless-components/aws-app-sync
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: GraphQL Tools
+  image_url: https://img.stackshare.io/service/11394/appsync.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2023-03-15 17:38:53.000000000 Z
+- name: Consul
+  description: A tool for service discovery, monitoring and configuration
+  website_url: http://www.consul.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/747/consul-logo-grad_teaser.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: Fabio
+  description: HTTP and TCP reverse proxy
+  website_url: https://fabiolb.net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/12427/fabio.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/config/application.yml
+  detection_source: docker-all/config/application.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: cURL
+  description: Command Line Tool and Library for Transferring Data With URLs
+  website_url: http://curl.haxx.se/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Transfer
+  image_url: https://img.stackshare.io/service/6552/curl-logo.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root/blob/main/docker-all/docker-compose.yml
+  detection_source: docker-all/docker-compose.yml
+  last_updated_by: Bill Oley
+  last_updated_on: 2022-01-11 18:45:31.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/datawave-microservices-root
+  detection_source: Repo Metadata
