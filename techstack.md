@@ -3,16 +3,16 @@
 ## Tech Stack
 2lambda123/datawave-microservices-root is built on the following main stack:
 
-- [Consul](http://www.consul.io/) – Open Source Service Discovery
 - [Java](https://www.java.com) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- [cURL](http://curl.haxx.se/) – File Transfer
 - [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
+- [Consul](http://www.consul.io/) – Open Source Service Discovery
 - [Fabio](https://fabiolb.net/) – Load Balancer / Reverse Proxy
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [cURL](http://curl.haxx.se/) – File Transfer
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -22,16 +22,16 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/datawave-microservices-root is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/747/consul-logo-grad_teaser.png' alt='Consul'/> [Consul](http://www.consul.io/) – Open Source Service Discovery
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg' alt='RabbitMQ'/> [RabbitMQ](http://www.rabbitmq.com/) – Message Queue
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
 - <img width='25' height='25' src='https://img.stackshare.io/service/11394/appsync.png' alt='Serverless AppSync'/> [Serverless AppSync](https://github.com/serverless-components/aws-app-sync) – GraphQL Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/747/consul-logo-grad_teaser.png' alt='Consul'/> [Consul](http://www.consul.io/) – Open Source Service Discovery
 - <img width='25' height='25' src='https://img.stackshare.io/service/12427/fabio.png' alt='Fabio'/> [Fabio](https://fabiolb.net/) – Load Balancer / Reverse Proxy
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/datawave-microservices-root](https://github.com/2lambda123/datawave-microservices-root)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/09/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
